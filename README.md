@@ -1,10 +1,13 @@
 **Bank Loan Report Overview**
+
 The Bank Loan Report is a comprehensive tool designed to monitor and assess our bank's lending activities and performance. This report provides insights into key loan-related metrics and their changes over time. It aids in making data-driven decisions, tracking the health of our loan portfolio, and identifying trends to inform our lending strategies.
 
 **Key Performance Indicators (KPIs)**
+
 The report tracks various KPIs to evaluate the bank’s lending performance:
 
 **Summary Metrics**
+
 Total Loan Applications: Total number of loan applications received during a specified period. Includes Month-to-Date (MTD) and Month-over-Month (MoM) changes.
 Total Funded Amount: Total amount of funds disbursed as loans. Includes MTD and MoM changes.
 Total Amount Received: Total amount received from borrowers, tracking cash flow and loan repayment. Includes MTD and MoM changes.
@@ -34,6 +37,7 @@ Visualizations and Dashboards
 The project includes multiple dashboards to visualize critical metrics and trends:
 
 **Dashboard 1: Summary**
+
 Displays overall KPIs, including totals, MTD values, and MoM changes for:
 
 Loan Applications
@@ -43,6 +47,7 @@ Interest Rate
 DTI
 
 **Dashboard 2: Overview**
+
 Monthly Trends by Issue Date (Line Chart):
 
 Metrics: Total Loan Applications, Total Funded Amount, Total Amount Received
@@ -72,6 +77,7 @@ Metrics: Total Loan Applications, Total Funded Amount, Total Amount Received
 Hierarchy: Home Ownership Categories (e.g., own, rent, mortgage)
 
 **Dashboard 3: Details**
+
 A comprehensive view including:
 
 Loan ID
@@ -96,4 +102,5 @@ Make necessary adjustments.
 Implement periodic updates to keep data and visualizations current.
 
 **Conclusion**
+
 The Bank Loan Report project provides a detailed and visual analysis of the bank's lending activities, enabling data-driven decision-making and strategic planning. It tracks key metrics, evaluates loan performance, and identifies trends to improve the bank’s lending operations.
